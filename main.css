@@ -1,26 +1,27 @@
 div {
-	height: ; 
-	width: ;
+	height:100px ; 
+	width: 700;
+	font-size: 15px
 }
 
 
 .amarillo {
-	background-color: ;
+	background-color: yellow;
 }
 
 .rojo {
-	background-color: ;
+	background-color: red;
 }
 
 .pd15{
 
-padding-left: ;
+padding-left: 5px;
 }
 
 .pdt5 {
-	padding-top: ;
+	padding-top: 5px;
 }
 
 .may {
-text-transform: ;
+text-transform: uppercase;
 }
